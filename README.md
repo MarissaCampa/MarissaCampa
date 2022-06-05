@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on honing my skills in C++ project development
 - 🌱 I’m currently learning web technologies
-- 📫 How to reach me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-marissa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marissa-campa/) &nbsp; or  &nbsp; [![Gmail Badge](https://img.shields.io/badge/-marissag.campa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marissag.campa@gmail.com)](mailto:marissag.campa@gmail.com)
+- 📫 You can reach me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-marissa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marissa-campa/) &nbsp; or  &nbsp; [![Gmail Badge](https://img.shields.io/badge/-marissag.campa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marissag.campa@gmail.com)](mailto:marissag.campa@gmail.com)  &nbsp; and checkout my &nbsp; [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-yellowgreen)](https://img.shields.io/badge/-Portfolio-yellowgreen)
+
 
 ---
 
