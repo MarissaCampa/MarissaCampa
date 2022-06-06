@@ -26,6 +26,10 @@
 
 ### 🛠 &nbsp; Projects :
 
+<a href="https://github.com/MarissaCampa/Accounts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarissaCampa&repo=Accounts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+&nbsp;
 <a href="https://github.com/MarissaCampa/players">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarissaCampa&repo=players&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
