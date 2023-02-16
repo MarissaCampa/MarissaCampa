@@ -2,7 +2,7 @@
   Hi there 👋 I'm Marissa 👩🏻‍💻
 </h1>
 
-<p>I'm a Mechatronics Engineer with a Masters in Automation and Control. I am a tech enthusiast and I'm looking to contribute to the autonomous vehicles and roboticcs industry. I am always open to collaborating on projects and innovative ideas.</p>
+<p>I'm a Mechatronics Engineer with a Masters in Automation and Control. I am a tech enthusiast and I'm looking to contribute to the autonomous vehicles and robotics industry. I am always open to collaborating on projects and innovative ideas.</p>
 
 - 🔭 I’m currently working on honing my skills in C++ project development
 - 🌱 I’m currently learning web technologies
