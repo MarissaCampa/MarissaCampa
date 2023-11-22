@@ -31,6 +31,10 @@
 
 ### 🛠 &nbsp; Projects :
 
+<a href="https://github.com/MarissaCampa/BulkyBookWeb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarissaCampa&repo=BulkyBookWeb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+&nbsp;
 <a href="https://github.com/MarissaCampa/RecipesApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarissaCampa&repo=RecipesApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -46,4 +50,3 @@
 <a href="https://github.com/MarissaCampa/the-clothing-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarissaCampa&repo=the-clothing-shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
