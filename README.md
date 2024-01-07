@@ -2,7 +2,7 @@
   Hi there 👋 I'm Marissa 👩🏻‍💻
 </h1>
 
-<p>👋 Mechatronics Engineer turned Software Developer with a knack for solving complex challenges. Former Controls Engineer skilled in PLC programming, now crafting solutions with Visual Studio C#. I've delved into autonomous vehicles using C++ and ROS during my Master's degree. Eager to learn, collaborate, and contribute to cutting-edge projects. Let's connect and dive into the world of innovation together! 🚀</p>
+<p>👋 Mechatronics Engineer turned Software Developer with a knack for solving complex challenges, now crafting solutions with Visual Studio C#. I've delved into autonomous vehicles using C++ and ROS during my Master's degree. Eager to learn, collaborate, and contribute to cutting-edge projects. Let's connect and dive into the world of innovation together! 🚀</p>
 
 - 🔭 I’m currently working on honing my skills in ASP.NET
 - 🌱 I’m currently learning web technologies
